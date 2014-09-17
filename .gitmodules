@@ -1,0 +1,3 @@
+[submodule "play-with-git-subrepo"]
+	path = play-with-git-subrepo
+	url = git://github.com/vuvvn/play-with-git-subrepo
